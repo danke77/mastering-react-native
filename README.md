@@ -1,6 +1,6 @@
 Mastering React Native
 ===
-### Flux
+### React
 
 - [理解 Flux](http://www.jianshu.com/p/637da26e4c81)
 
