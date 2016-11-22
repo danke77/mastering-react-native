@@ -2,12 +2,12 @@ Mastering React Native
 ===
 ### React
 
-- [理解 Flux](http://www.jianshu.com/p/637da26e4c81)
+- [理解 Flux](https://danke77.github.io/2016/10/25/understanding-flux/)
 
 ### Android
 
-- [原生 Android 项目集成 React Native](http://www.jianshu.com/p/fc29c86fc2b8)
+- [原生 Android 项目集成 React Native](https://danke77.github.io/2016/10/17/react-native-embedding-android/)
 
 ### iOS
 
-- [原生 iOS 项目集成 React Native](http://www.jianshu.com/p/26506d9d10e2)
+- [原生 iOS 项目集成 React Native](https://danke77.github.io/2016/10/19/react-native-embedding-ios/)
