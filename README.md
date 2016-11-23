@@ -7,6 +7,7 @@ Mastering React Native
 ### Android
 
 - [原生 Android 项目集成 React Native](https://danke77.github.io/2016/10/17/react-native-embedding-android/)
+- [在 Fragment 中使用 React Native](https://danke77.github.io/2016/11/23/react-native-inside-fragment/)
 
 ### iOS
 
