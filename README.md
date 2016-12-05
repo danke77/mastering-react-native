@@ -2,7 +2,7 @@ Mastering React Native
 ===
 ### React
 
-- [理解 Flux](https://danke77.github.io/2016/10/25/understanding-flux/)
+- [理解 Flux](https://github.com/danke77/mastering-flux/)
 
 ### Android
 
@@ -15,4 +15,8 @@ Mastering React Native
 
 ### Component
 
-- [ListView & GridView](https://github.com/danke77/react-native-easy-listview-gridview)
+- [ListView & GridView](https://github.com/danke77/react-native-easy-listview-gridview/)
+
+### Sample
+
+- [一个简单的例子](https://github.com/danke77/react-native-sample/)
